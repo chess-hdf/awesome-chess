@@ -1,2 +1,3 @@
 # awesome-chess
-Awesome Chess resources apps and resources on the web !
+
+> A curated list of awesome websites, packages, apps, and other cool resources for Chess players, referees, clubs, ...
